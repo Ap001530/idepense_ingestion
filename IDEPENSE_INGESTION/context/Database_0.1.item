@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_3rbuAM16EfClt_8rFXLgsw" confirmationNeeded="false" hide="false" name="Default">
+  <contextParameter xmi:id="_uykacM17EfClt_8rFXLgsw" comment="" name="snowflake_account" prompt="snowflake_account?" promptNeeded="true" repositoryContextId="built-in" type="id_String" value="cmcihko-cb91344.snowflakecomputing.com"/>
+  <contextParameter xmi:id="_uykacc17EfClt_8rFXLgsw" comment="" name="snowflake_username" prompt="snowflake_username?" promptNeeded="true" repositoryContextId="built-in" type="id_String" value="Agosain6"/>
+  <contextParameter xmi:id="_uykacs17EfClt_8rFXLgsw" comment="" name="snowflake_password" prompt="snowflake_password?" promptNeeded="true" repositoryContextId="built-in" type="id_Password" value="enc:system.encryption.key.v1:H1b3IdLGIlhStEicWDpDt0ug3Mh2GrS6u4R6rLnvuWKrl0pN7yw5IvOwVzM="/>
+  <contextParameter xmi:id="_uykac817EfClt_8rFXLgsw" comment="" name="snowflake_warehouse" prompt="snowflake_warehouse?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="COMPUTE_WH"/>
+  <contextParameter xmi:id="_uykadM17EfClt_8rFXLgsw" comment="" name="snowflake_database" prompt="snowflake_database?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="IDEPENSE_INGESTION"/>
+  <contextParameter xmi:id="_uykadc17EfClt_8rFXLgsw" comment="" name="snowflake_schema_ods" prompt="snowflake_schema_ods?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="ODS"/>
+  <contextParameter xmi:id="_uykads17EfClt_8rFXLgsw" comment="" name="snowflake_schema_dwh" prompt="snowflake_schema_dwh?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="DWH"/>
+</talendfile:ContextType>
